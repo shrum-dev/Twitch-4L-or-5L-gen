@@ -1,4 +1,4 @@
-# Twitch-4L-or-5L-gen
+# Twitch-4Letter-and-5Letter-gen
 A simple 4 or 5 letter username checker made using asyncio and aiohttp. [ADVANCED]
 
 # Tutorial
